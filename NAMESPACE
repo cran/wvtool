@@ -1,0 +1,8 @@
+
+exportPattern("^[[:alpha:]]+")
+  importFrom("grDevices", "grey")
+  importFrom("graphics", "abline", "hist", "image", "plot", "par")
+  importFrom("stats", "var", "median", "fft")
+  importFrom("grDevices", "gray")
+  importFrom("graphics", "text")
+
